@@ -16,6 +16,20 @@ const Footer =()=>{
             6th floor, Off Riverside Drive 
 </span> 
          </div>
+         <div className="flex flex-col justify-center">
+         <span className="text-bold-2xl"></span>
+         <span>Accra, Ghana.</span>
+          <span>
+            One Airport Square,Airport City
+          8th floor..
+         </span>
+         </div>
+         <div className="flex flex-col justify-center">
+         <span className="text-bold-2xl">VISIT US IN NIGERIA</span>
+          <span> Lagos,Nigeria.
+
+          Sterling Bank Building.</span>
+         </div>
         </div>
   </div>
 
