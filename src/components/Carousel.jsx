@@ -3,7 +3,7 @@ import react  from 'react';
 
 
 
-const images = ['https://unsplash.com/photos/ZA9PHAnVP5g','https://unsplash.com/photos/a66sGfOnnqQ', 'https://unsplash.com/photos/rcUw6b4iYe0','https://unsplash.com/photos/e6ZOmEfNHLM']
+const images = []
 // images must be an array of urls , if using Next JS this could something like
 // const images = ['/img/img1.png', '/img/img2.png', '/img/img3.png']
 // images must be an array of urls , if using Next JS this could something like
