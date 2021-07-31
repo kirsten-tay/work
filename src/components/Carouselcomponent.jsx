@@ -10,14 +10,15 @@ const Carouselcomponent=()=>{
                     <img src="../building1.jpg" />
                 </div>
                 <div>
-                    <img src="../photo2.jpg" />
+                    <img src="../building2.jpg" />
                 </div>
                 <div>
-                    <img src="../photo4.jpg" />
+                    <img src="../building5.jpg" />
                 </div>
                 <div>
-                    <img className="" src="../photo3.jpg" />
+                    <img  src="../building4.jpg" />
                 </div>
+               
             </Carousel>
         </div>
     );
