@@ -2,21 +2,12 @@ import React from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
-import { motion } from 'framer-motion'
-
-
-const variants = {
-    hidden: { x: -200 },
-    visible: { x: 0 }
-}
-
-
 const Carouselcomponent=()=>{
     return (
         <div class="carousel-wrapper">
-            <Carousel className="w-100 h-90" >
+            <Carousel  >
                 <div>
-                    <img src="../photo1.jpg" />
+                    <img src="../building1.jpg" />
                 </div>
                 <div>
                     <img src="../photo2.jpg" />
