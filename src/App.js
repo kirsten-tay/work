@@ -1,16 +1,16 @@
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import Carousel from './components/Carousel'
+import Carouselcomponent from './components/Carouselcomponent'
 import Hero from './components/Hero'
-import Slider from './components/Slider'
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
         <Navbar/>
-        <Slider/>
-        <Carousel/>
+        
+        <Carouselcomponent/>
         <Hero/>
         <Footer/>
     </div>
